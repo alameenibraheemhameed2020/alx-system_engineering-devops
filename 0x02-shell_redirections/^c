@@ -1,0 +1,18 @@
+[master 961e9b8] 14-findthatword
+ 3 files changed, 1 insertion(+), 27 deletions(-)
+ create mode 100644 0x02-shell_redirections/...
+ delete mode 100644 0x02-shell_redirections/^c
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../13-symbolic_link
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	^c
+
+no changes added to commit (use "git add" and/or "git commit -a")
